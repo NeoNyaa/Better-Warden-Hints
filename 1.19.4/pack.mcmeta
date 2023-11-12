@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 13,
-		"description": "Changes the color of the subtitles corresponding to the wardens anger state."
+		"description": "Colorizes the subtitles for the Wardens anger state."
 	}
 }
